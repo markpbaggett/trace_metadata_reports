@@ -38,3 +38,34 @@ This report is from July 27, 2016.  There are at least a few UTF-8 issues that n
 | metadata.thesis.rightslicense          | String                               |          13 |   0.041666666666666664 |
 | metadata.thesis.coveragespatiallat     | String                               |           4 |   0.012820512820512820 |
 | metadata.thesis.coveragespatiallong    | String                               |           4 |   0.012820512820512820 |
+
+## Understanding This Field
+
+This section lists the distinct fields here:
+
+* [Descriptionnote]()
+* [CoverageSpatiallat]()
+* [CoverageSpatiallong]()
+* [Rightslicense]()
+* [Publisher]()
+* [Coveragespatial]()
+* [Rights]()
+* [Dataavailable]()
+* [Thesisdegreediscipline]()
+* [Thesisdegreename]()
+* [Thesisdegreelevel]()
+* [Contributor]()
+* [Type]()
+
+
+## Potential Problems or Bad Metadata
+
+This section just mentions weird stuff we find that we may want to address.
+
+### Thesisdegreediscipline == "<-- Please Select Major -->"
+
+1.[Increasing Attendance in the National Premier & Women's Premier Soccer League](http://trace.tennessee.edu/utk_chanhonoproj/1848)
+2.[How is the Stock Market Like Stephen Curry?](http://trace.tennessee.edu/utk_chanhonoproj/1940)
+
+
+

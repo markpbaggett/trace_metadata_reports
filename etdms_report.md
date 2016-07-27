@@ -43,19 +43,19 @@ This report is from July 27, 2016.  There are at least a few UTF-8 issues that n
 
 This section lists the distinct fields here:
 
-* [Descriptionnote]()
-* [CoverageSpatiallat]()
-* [CoverageSpatiallong]()
-* [Rightslicense]()
-* [Publisher]()
-* [Coveragespatial]()
-* [Rights]()
-* [Dataavailable]()
-* [Thesisdegreediscipline]()
-* [Thesisdegreename]()
-* [Thesisdegreelevel]()
-* [Contributor]()
-* [Type]()
+* [Descriptionnote](https://github.com/markpbaggett/trace_metadata_reports/blob/master/etdms_support_files/descriptionnote.md)
+* [CoverageSpatiallat](https://github.com/markpbaggett/trace_metadata_reports/blob/master/etdms_support_files/coveragespatiallat.md)
+* [CoverageSpatiallong](https://github.com/markpbaggett/trace_metadata_reports/blob/master/etdms_support_files/coveragespatiallong.md)
+* [Rightslicense](https://github.com/markpbaggett/trace_metadata_reports/blob/master/etdms_support_files/rightslicense.md)
+* [Publisher](https://github.com/markpbaggett/trace_metadata_reports/blob/master/etdms_support_files/publisher.md)
+* [Coveragespatial](https://github.com/markpbaggett/trace_metadata_reports/blob/master/etdms_support_files/coveragespatial.md)
+* [Rights](https://github.com/markpbaggett/trace_metadata_reports/blob/master/etdms_support_files/rights.md)
+* [Dataavailable](https://github.com/markpbaggett/trace_metadata_reports/blob/master/etdms_support_files/dateavailable.md)
+* [Thesisdegreediscipline](https://github.com/markpbaggett/trace_metadata_reports/blob/master/etdms_support_files/thesisdegreediscipline.md)
+* [Thesisdegreename](https://github.com/markpbaggett/trace_metadata_reports/blob/master/etdms_support_files/thesisdegreename.md)
+* [Thesisdegreelevel](https://github.com/markpbaggett/trace_metadata_reports/blob/master/etdms_support_files/thesisdegreelevel.md)
+* [Contributor](https://github.com/markpbaggett/trace_metadata_reports/blob/master/etdms_support_files/contributor.md)
+* [Type](https://github.com/markpbaggett/trace_metadata_reports/blob/master/etdms_support_files/type.md)
 
 
 ## Potential Problems or Bad Metadata

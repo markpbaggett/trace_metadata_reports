@@ -45,5 +45,17 @@ This report is from July 29, 2016.
 
 This section lists the distinct fields here:
 
-
-
+* [Rights](https://github.com/markpbaggett/trace_metadata_reports/blob/master/qdc_files/rights.md)
+* [Rightslicense](https://github.com/markpbaggett/trace_metadata_reports/blob/master/qdc_files/rightslicense.md)
+* [coveragespatial](https://github.com/markpbaggett/trace_metadata_reports/blob/master/qdc_files/coveragespatial.md)
+* [coveragespatiallat](https://github.com/markpbaggett/trace_metadata_reports/blob/master/qdc_files/coveragespatiallat.md)
+* [coveragespatiallong](https://github.com/markpbaggett/trace_metadata_reports/blob/master/qdc_files/coveragespatiallong.md)
+* [publisher](https://github.com/markpbaggett/trace_metadata_reports/blob/master/qdc_files/publisher.md)
+* [descriptionnote](https://github.com/markpbaggett/trace_metadata_reports/blob/master/qdc_files/descriptionnote.md)
+* [dateavailable](https://github.com/markpbaggett/trace_metadata_reports/blob/master/qdc_files/dateavailable.md)
+* [thesisdegreename](https://github.com/markpbaggett/trace_metadata_reports/blob/master/qdc_files/thesisdegreename.md)
+* [thesisdegreelevel](https://github.com/markpbaggett/trace_metadata_reports/blob/master/qdc_files/thesisdegreelevel.md)
+* [thesisdegreediscipline](https://github.com/markpbaggett/trace_metadata_reports/blob/master/qdc_files/thesisdegreediscipline.md)
+* [contributor](https://github.com/markpbaggett/trace_metadata_reports/blob/master/qdc_files/contributor.md)
+* [type](https://github.com/markpbaggett/trace_metadata_reports/blob/master/qdc_files/type.md)
+* [description](https://github.com/markpbaggett/trace_metadata_reports/blob/master/qdc_files/description.md)

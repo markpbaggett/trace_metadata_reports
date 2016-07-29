@@ -41,7 +41,6 @@ See below for distinct values associated with a particular field. If a field's v
 * [Format](https://github.com/markpbaggett/trace_metadata_reports/blob/master/oai_dc/format.md)
 * [Rights](https://github.com/markpbaggett/trace_metadata_reports/blob/master/oai_dc/rights.md)
 
-This section lists the distinct fields here:
 
 
 

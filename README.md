@@ -12,6 +12,9 @@ This repository includes metadata reports about Trace.
 	* This report gives a high-level overview of Trace Metadata as OAI_DC.
 * [QDC](https://github.com/markpbaggett/trace_metadata_reports/blob/master/qdc_report.md)
 	* This report gives a high-level overview of Trace Metadata as QDC.
+* [DataDump-utk_gradthes](https://github.com/markpbaggett/trace_metadata_reports/blob/master/datadump_utkgradthes.md)
+	* This report gives a high-level overview of the XML from the Trace data dump.
+	* It includes the utk_gradthes set only.
 
 ## Master Metadata Mapping - Theses and Dissertations
 

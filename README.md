@@ -21,7 +21,7 @@ This repository includes metadata reports about Trace.
 | Trace User Interface                   | Oai DC                       | Oai ETDMS   | Trace Data Dump | OAI QDC |
 | -------------------------------------- | ---------------------------- | ----------- | -------------------- | ------- |
 | Title | dc:title | title | title | dc:title |
-| Author | dc:creator | creator | authors\author\fname, authors\author\mname, authors\author\lname  |  dc:creator |
+| Author | dc:creator | creator | authors\author\fname, authors\author\mname, authors\author\lname, authors\author\suffix  |  dc:creator |
 | Date of Award | dc:date | datecreated | publicationdate | dc:datecreated  |
 | Degree Type | **NOT MAPPED** |  thesisdegreelevel | document-type  | dc:thesisdegreelevel  |
 | Degree Name | **NOT MAPPED** | thesisdegreename | fields\field@name='degree_name'\value  | dc:thesisdegreename |
@@ -46,6 +46,11 @@ This repository includes metadata reports about Trace.
 | **NOT MAPPED** | **NOT MAPPED** | **NOT MAPPED** | submission-path | **NOT MAPPED** |
 | **NOT MAPPED** | **NOT MAPPED** | **NOT MAPPED** | authors\author\email | **NOT MAPPED** |
 | **NOT MAPPED** | **NOT MAPPED** | **NOT MAPPED** | authors\author\institution | **NOT MAPPED** |
+| **NOT MAPPED** | **NOT MAPPED** | **NOT MAPPED** | withdrawn | **NOT MAPPED** |
+| Additional Files | **NOT MAPPED** | **NOT MAPPED** | supplemental-files.file.archive-name | **NOT MAPPED** |
+| Additional Files | **NOT MAPPED** | **NOT MAPPED** | supplemental-files.file.upload-name | **NOT MAPPED** |
+| Additional Files | **NOT MAPPED** | **NOT MAPPED** | supplemental-files.file.url | **NOT MAPPED** |
+| **NOT MAPPED** | **NOT MAPPED** | **NOT MAPPED** | supplemental-files.mime-type | **NOT MAPPED** |
 
-**Note**: It doesn't appear that theses or dissertations are being embargoed at this point so it's hard to say what this looks like.  If they are, they don't get a *dateavailable* field.
-**About Trace Data Dump**: Full Xpath is not given.  XML document starts at \documents\document
+* **Note**: It doesn't appear that theses or dissertations are being embargoed at this point so it's hard to say what this looks like.  If they are, they don't get a *dateavailable* field.
+* **About Trace Data Dump**: Full Xpath is not given.  XML document starts at \documents\document

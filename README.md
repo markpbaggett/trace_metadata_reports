@@ -15,6 +15,8 @@ This repository includes metadata reports about Trace.
 * [DataDump-utk_gradthes](https://github.com/markpbaggett/trace_metadata_reports/blob/master/datadump_utkgradthes.md)
 	* This report gives a high-level overview of the XML from the Trace data dump.
 	* It includes the utk_gradthes set only.
+* [DataDump-full](https://github.com/markpbaggett/trace_metadata_reports/blob/master/datadump_full.md)
+	* This set represents all metadata from central:/arc1/TRACE/TRACE
 
 ## Master Metadata Mapping - Theses and Dissertations
 

@@ -4,40 +4,41 @@
 
 ## About
 
-This report is from July 27, 2016.  There are at least a few UTF-8 issues that need to be addressed still, so this doesn't include all objects.
+This report is from August 5, 2016.  There are at least a few UTF-8 issues that need to be addressed still, so this doesn't include all objects.
 
 ## Schema Overview
 
-| key                                    | types                                | occurrences | percents               |
-| -------------------------------------- | ------------------------------------ | ----------- | ---------------------- |
-| _id                                    | ObjectId                             |       31200 | 100.000000000000000000 |
-| metadata                               | Object                               |       31200 | 100.000000000000000000 |
-| metadata.thesis                        | Object                               |       31200 | 100.000000000000000000 |
-| metadata.thesis.@xmlns                 | String                               |       31200 | 100.000000000000000000 |
-| metadata.thesis.@xmlns:xsi             | String                               |       31200 | 100.000000000000000000 |
-| metadata.thesis.@xsi:schemaLocation    | String                               |       31200 | 100.000000000000000000 |
-| metadata.thesis.title                  | String                               |       31200 | 100.000000000000000000 |
-| oai_provider                           | String                               |       31200 | 100.000000000000000000 |
-| record_id                              | String                               |       31200 | 100.000000000000000000 |
-| metadata.thesis.identifier             | String (30921),Array (123)           |       31044 |  99.500000000000000000 |
-| metadata.thesis.datecreated            | String                               |       28100 |  90.064102564102569204 |
-| metadata.thesis.subject                | String (10989),Array (11835)         |       22824 |  73.153846153846160405 |
-| metadata.thesis.creator                | String (20209),Array (2593)          |       22802 |  73.083333333333328596 |
-| metadata.thesis.type                   | String (20373),null (77)             |       20450 |  65.544871794871795601 |
-| metadata.thesis.descriptionabstract    | String (12941),null (27)             |       12968 |  41.564102564102562098 |
-| metadata.thesis.contributor            | Array (7490),String (1440),null (26) |        8956 |  28.705128205128204399 |
-| metadata.thesis.thesisdegreediscipline | String                               |        7964 |  25.525641025641025550 |
-| metadata.thesis.thesisdegreelevel      | String                               |        7383 |  23.663461538461540101 |
-| metadata.thesis.thesisdegreename       | String                               |        7373 |  23.631410256410255499 |
-| metadata.thesis.description            | String (5370),Array (65),null (1)    |        5436 |  17.423076923076923350 |
-| metadata.thesis.dateavailable          | String                               |         466 |   1.493589743589743613 |
-| metadata.thesis.rights                 | String                               |         222 |   0.711538461538461564 |
-| metadata.thesis.descriptionnote        | String (184),null (6)                |         190 |   0.608974358974358920 |
-| metadata.thesis.coveragespatial        | String                               |          55 |   0.176282051282051294 |
-| metadata.thesis.publisher              | String                               |          55 |   0.176282051282051294 |
-| metadata.thesis.rightslicense          | String                               |          13 |   0.041666666666666664 |
-| metadata.thesis.coveragespatiallat     | String                               |           4 |   0.012820512820512820 |
-| metadata.thesis.coveragespatiallong    | String                               |           4 |   0.012820512820512820 |
+| key                                          | types                                | occurrences | percents               |
+| -------------------------------------------- | ------------------------------------ | ----------- | ---------------------- |
+| _id                                          | ObjectId                             |       31357 | 100.000000000000000000 |
+| metadata                                     | Object                               |       31357 | 100.000000000000000000 |
+| metadata.thesis                              | Object                               |       31357 | 100.000000000000000000 |
+| metadata.thesis.@xmlns                       | String                               |       31357 | 100.000000000000000000 |
+| metadata.thesis.@xmlns:xsi                   | String                               |       31357 | 100.000000000000000000 |
+| metadata.thesis.@xsi:schemaLocation          | String                               |       31357 | 100.000000000000000000 |
+| metadata.thesis.title                        | String                               |       31357 | 100.000000000000000000 |
+| oai_provider                                 | String                               |       31357 | 100.000000000000000000 |
+| record_id                                    | String                               |       31357 | 100.000000000000000000 |
+| metadata.thesis.identifier                   | String (31078),Array (123)           |       31201 |  99.502503428261633189 |
+| metadata.thesis.dateDOTcreated               | String                               |       28254 |  90.104282935229775831 |
+| metadata.thesis.subject                      | Array (11918),String (11042)         |       22960 |  73.221290302005925810 |
+| metadata.thesis.creator                      | String (20348),Array (2599)          |       22947 |  73.179832254361073751 |
+| metadata.thesis.type                         | String (20405),null (77)             |       20482 |  65.318748604777240985 |
+| metadata.thesis.descriptionDOTabstract       | String (13071),null (27)             |       13098 |  41.770577542494500278 |
+| metadata.thesis.contributor                  | Array (7615),String (1440),null (26) |        9081 |  28.960040820231526482 |
+| metadata.thesis.thesisDOTdegreeDOTdiscipline | String                               |        8089 |  25.796472876869597002 |
+| metadata.thesis.thesisDOTdegreeDOTlevel      | String                               |        7508 |  23.943617055202985000 |
+| metadata.thesis.thesisDOTdegreeDOTname       | String                               |        7498 |  23.911726249322320825 |
+| metadata.thesis.description                  | String (5371),Array (65),null (1)    |        5437 |  17.339031157317347009 |
+| metadata.thesis.dateDOTavailable             | String                               |         466 |   1.486111554038970661 |
+| metadata.thesis.rights                       | String                               |         222 |   0.707975890550754272 |
+| metadata.thesis.descriptionDOTnote           | String (186),null (6)                |         192 |   0.612303472908760416 |
+| metadata.thesis.coverageDOTspatial           | String                               |          55 |   0.175399432343655320 |
+| metadata.thesis.publisher                    | String                               |          55 |   0.175399432343655320 |
+| metadata.thesis.rightsDOTlicense             | String                               |          13 |   0.041458047644863986 |
+| metadata.thesis.coverageDOTspatialDOTlat     | String                               |           4 |   0.012756322352265842 |
+| metadata.thesis.coverageDOTspatialDOTlong    | String                               |           4 |   0.012756322352265842 |
+
 
 ## Understanding This Field
 

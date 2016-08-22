@@ -4,6 +4,10 @@
 
 This repository includes metadata reports about Trace.
 
+## Series
+
+[Click here](https://github.com/markpbaggett/trace_metadata_reports/blob/master/trace_series.md) for a list of TRACE series. 
+
 ## Reports
 
 * [ETDMS](https://github.com/markpbaggett/trace_metadata_reports/blob/master/etdms_report.md)

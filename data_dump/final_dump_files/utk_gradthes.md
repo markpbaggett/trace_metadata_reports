@@ -61,3 +61,39 @@ This report was created on August 22, 2016.
 | metadata.document.authors.author.XX.institution           | String                     |           1 |   0.02621231979030144 |
 | metadata.document.authors.author.XX.lname                 | String                     |           1 |   0.02621231979030144 |
 | metadata.document.authors.author.XX.mname                 | String                     |           1 |   0.02621231979030144 |
+
+## Distinct Value Reports
+
+* [abstract](distinct_reports/abstract.md)
+* [article-id](distinct_reports/article-id.md)
+* [authors.author.email](distinct_reports/authorauthoremail.md)
+* [authors.author.fname](distinct_reports/authorauthorfname.md)
+* [authors.author.mname](distinct_reports/authorauthormname.md)
+* [authors.author.lname](distinct_reports/authorauthorlname.md)
+* [authors.author.institution](distinct_reports/authorauthorinstitution.md)
+* [authors.author.suffix](distinct_reports/authorauthorsuffix.md)
+* [context-key](distinct_reports/context-key.md)
+* [coverpage-url](distinct_reports/coverpage-url.md)
+* [disciplines.discipline](distinct_reports/discipline.md)
+* [document-type](distinct_reports/document-type.md)
+* [fields.field.list](distinct_reports/fieldsfieldlist.md)
+* [fields.field.name](distinct_reports/fields.field.name.md)
+* [fields.field.type](distinct_reports/fields.field.type.md)
+* [fields.field.value](distinct_reports/fieldsfieldvalue.md)
+* [fulltext-url](distinct_reports/fulltext-url.md)
+* [keywords.keyword](distinct_reports/keywords.md)
+* [label](distinct_reports/label.md)
+* [native-url](distinct_reports/native-url.md)
+* [publication-date](distinct_reports/publication-date.md)
+* [publication-title](distinct_reports/publication-title.md)
+* [submission-date](distinct_reports/submission-date.md)
+* [submission-path](distinct_reports/submission-path.md)
+* [supplemental-files.file.archive-name](distinct_reports/supplemental-files_file-archive-name.md)
+* [supplemental-files.file.description](distinct-reports/description.md)
+* [supplemental-files.file.mime-type](distinct_reports/supplemental-files_file_mime-type.md)
+* [supplemental-files.file.upload-name](distinct_reports/supplemental-files_file_upload-name.md)
+* [supplemental-files.file.url](distinct_reports/supplemental-files_file_url.md)
+* [type](distinct_reports/type.md)
+* [withdrawn](distinct_reports/withdrawn.md)
+
+**NOTE**: If you're trying to understand fields/field, use **the [full JSON object report for fields.field](distinct_reports/fields_complete.md).** Trust me, JSON is your friend.

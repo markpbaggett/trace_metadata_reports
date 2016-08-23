@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Industrial Concentration and Quality of Life</title>
+<publication-date>2008-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Maples</lname>
+<fname>James</fname>
+<mname>Nathaniel</mname>
+</author>
+</authors>
+<disciplines><discipline>Sociology</discipline>
+</disciplines><abstract>&lt;p&gt;The purpose of this study is to examine the effects of industrial concentration at the county level on quality of life among residents of US counties. Data on various aspects of quality of life and industrial characteristics were collected for all United States counties. Four quality of life-related variables (infant mortality, percent of female-headed households, the burglary rate, and income inequality) were regressed on industrial concentration percentage and industrial concentration types. Industrial concentration was associated with an increase in infant mortality, a decrease in the burglary rate, and had no effect on the percent of female headed households or income inequality. Examining specific industry types, manufacturing proved significant in increasing the percent of female headed households, was less effective in reducing burglaries compared to other industry types, and was generally worse on quality of life than any other industry types.&lt;/p&gt;</abstract>
+<coverpage-url>http://trace.tennessee.edu/utk_gradthes/466</coverpage-url>
+<fulltext-url>http://trace.tennessee.edu/cgi/viewcontent.cgi?article=1502&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>466</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1502</articleid>
+<submission-date>2010-02-18T08:08:54-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1153149</context-key>
+<submission-path>utk_gradthes/466</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Stephanie Bohon</value>
+</field>
+<field name="advisor2" type="string" list="true">
+<value>Paul Gellert</value>
+<value>Joongbaeck Kim</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Arts</value>
+</field>
+<field name="department" type="string">
+<value>Sociology</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/December2008MastersTheses/MaplesJamesNathaniel.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

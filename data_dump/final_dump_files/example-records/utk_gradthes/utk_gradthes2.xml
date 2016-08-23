@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Detecting Tropical Cyclone Signals in Tree Rings of Longleaf Pine (&lt;i&gt;Pinus palustris&lt;/i&gt; Mill.), Valdosta, Georgia, U.S.A.</title>
+<publication-date>2014-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>scolli15@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Collins</lname>
+<fname>Savannah</fname>
+<mname>Anne</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Dendrochronology</keyword>
+<keyword>Tropical cyclones</keyword>
+<keyword>Longleaf pine</keyword>
+<keyword>Climatology</keyword>
+<keyword>Superposed epoch analysis</keyword>
+</keywords>
+<disciplines><discipline>Climate</discipline>
+</disciplines><abstract>&lt;p&gt;The study of past hurricanes to help interpret the patterns of current and future tropical storms is vital to our economy, society, and infrastructure. Understanding how hurricanes are influenced by a warm climate is critical, and hurricane reconstructions from former periods of the Holocene (the last ~11,500 yr) will be beneficial. Paleotempestology is the study of past tropical cyclones and uses historical, biological, and geological proxies to reconstruct tropical cyclone activity to create a record of historical hurricane patterns. A tropical cyclone (TC) is a chaotic weather event that is influenced by several elements, including warm ocean waters from which TCs directly draw energy. In this study, linear regression was iteratively performed on tree-ring data developed at Lake Louise in Valdosta, Georgia, with monthly climate values (precipitation, temperature, PDSI) and monthly oscillation indices (ENSO, AMO, NAO). Residuals were drawn from the tree growth responses and then compared to data obtained from the National Hurricane Center’s North Atlantic Hurricane Database (HURDAT), which comprised all storms that entered two buffer zones (100-km and 150-km) during the period 1894 to 1999. Low values in residuals of tree-ring growth (narrow rings) were determined to be less than –0.3 (very low growth) and –0.4 (extremely low growth). Twelve residuals displayed very low growth while seven residuals displayed extremely low growth. For the storms that occurred within the 100-km buffer, 6 of the 12 very narrow rings and 4 out of 7 extremely narrow rings occurred the year directly after a TC event. For the storms that occurred within the 150-km buffer, 8 of the 12 very narrow rings and 6 out of 7 extremely narrow rings occurred the year directly after a TC event. A superposed epoch analysis was also used and found a statistically significant relationship between hurricane events and extremely low growth years. The latter analysis further corroborated the negative response of tree-ring growth to hurricane disturbances. Additional research stemming from this study should include a strengthening of the disturbance signal by accounting for events that could also have affected tree growth, such as fire, insects, and human activity.&lt;/p&gt;</abstract>
+<coverpage-url>http://trace.tennessee.edu/utk_gradthes/3142</coverpage-url>
+<fulltext-url>http://trace.tennessee.edu/cgi/viewcontent.cgi?article=4334&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3142</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4334</articleid>
+<submission-date>2014-11-20T20:24:40-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>6380022</context-key>
+<submission-path>utk_gradthes/3142</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Henri D. Grissino-Mayer</value>
+</field>
+<field name="advisor2" type="string" list="true">
+<value>Sally P. Horn</value>
+<value>Kelsey N. Ellis</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Geography</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

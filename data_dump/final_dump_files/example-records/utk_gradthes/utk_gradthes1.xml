@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Proposal for an Open Source System of Development and Research for Music CAI</title>
+<publication-date>2006-08-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Clouse</lname>
+<fname>Daniel</fname>
+<mname>E.</mname>
+</author>
+</authors>
+<disciplines><discipline>Music</discipline>
+</disciplines><abstract>&lt;p&gt;The purpose of this thesis is to examine the historical use of music Computer Assisted lnstruction (CAl) software to show that research on music CAl has decreased and to propose using a new method of coding and distribution (open source) that might increase research opportunities using music CAl. The reduction in research is due in part to limitations in existing software, as well as the practices of the music community. An open source CAl program called Mobius is described as an example of how open source programming can offer new opportunities for music researchers.&lt;/p&gt;
+&lt;p&gt;CAl software has played a prominent role in the college music school, and has a long history of research and innovation. Early CAl was used in numerous studies to show how effective computers could be at delivering instruction, while reducing the teacher workload at the same time. As computers became more widely adopted, CAl became more commonplace in the music school, and many CAl software programmers sold their programs to fill the growing demand. Modern CAl is now viewed more as a commercial product, and less as a research tool.&lt;/p&gt;
+&lt;p&gt;CAl can still be used as a powerful research tool. This thesis recommends using open source software development for music CAl since it allows programmers to share the workload of developing software, and allows CAl researchers to use existing open source as the basis for their new research programs. lncluded in this thesis are storyboards for several key components of an open source CAl program on music fundamentals, including an administrative portion, the actual CAl program, and a custom report builder.&lt;/p&gt;</abstract>
+<coverpage-url>http://trace.tennessee.edu/utk_gradthes/1530</coverpage-url>
+<fulltext-url>http://trace.tennessee.edu/cgi/viewcontent.cgi?article=2976&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1530</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2976</articleid>
+<submission-date>2013-08-01T12:49:22-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4375768</context-key>
+<submission-path>utk_gradthes/1530</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Barbara Murphy</value>
+</field>
+<field name="advisor2" type="string" list="true">
+<value>Don Pederson</value>
+<value>Gary Sousa</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Music</value>
+</field>
+<field name="department" type="string">
+<value>Music</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

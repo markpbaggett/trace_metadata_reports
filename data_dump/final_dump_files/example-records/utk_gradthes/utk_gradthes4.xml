@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Varying Degrees of Difficulty in Melodic Dictation Examples According to Intervallic Content</title>
+<publication-date>2012-08-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>mrobins4@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Robinson</lname>
+<fname>Michael</fname>
+<mname>Hines</mname>
+</author>
+</authors>
+<keywords>
+<keyword>interval</keyword>
+<keyword>melody</keyword>
+<keyword>melodic dictation</keyword>
+<keyword>aural skills</keyword>
+<keyword>ear training</keyword>
+<keyword>music theory</keyword>
+</keywords>
+<disciplines><discipline>Cognition and Perception</discipline>
+<discipline>Music Pedagogy</discipline>
+<discipline>Music Theory</discipline>
+<discipline>Other Music</discipline>
+</disciplines><abstract>&lt;p&gt;Melodic dictation has long been a daunting task for students in aural skills training. Research has found that interval identification is a factor when taking melodic dictation. Research has also found that some intervals are easier to identify than other intervals. The goal of this thesis is to determine whether the difficulty of melodic dictation examples can be categorized by their intervallic content. A popular aural skills text was used as the source for the melodic dictation examples. The adjacent intervals in each melodic dictation example were counted and recorded by interval type. The analysis of the melodic dictation examples according to their intervallic content was then performed using an SPSS two-step cluster analysis. Two clusters emerged, proving that there were natural groupings within the data. Cluster 1 examples contained mostly conjunct motion, i.e., intervals of a m2 to M3, while cluster 2 examples were characterized by their disjunct intervallic content, i.e., intervals of a m6 to M7. Melodic dictation examples of both clusters were found to appear throughout the textbook organization, with the exception that no cluster 2 examples were found in the beginning units of the text. Other variables that were tracked were whether an example was composed (C) for the text or derived from music literature (L), the unit and melody number, and total number of intervals per melody. Rhythm was not observed.&lt;/p&gt;</abstract>
+<coverpage-url>http://trace.tennessee.edu/utk_gradthes/1260</coverpage-url>
+<fulltext-url>http://trace.tennessee.edu/cgi/viewcontent.cgi?article=2279&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1260</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2279</articleid>
+<submission-date>2012-03-02T12:01:40-08:00</submission-date>
+<native-url>http://trace.tennessee.edu/context/utk_gradthes/article/2279/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>2617803</context-key>
+<submission-path>utk_gradthes/1260</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Barbara Murphy</value>
+</field>
+<field name="advisor2" type="string" list="true">
+<value>Don Pederson</value>
+<value>Brendan McConville</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Music</value>
+</field>
+<field name="department" type="string">
+<value>Music</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>Melodic_Dictation_Data_Sheet.xlsx</archive-name>
+<upload-name>Melodic_Dictation_Data_Sheet.xlsx</upload-name>
+<url>http://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=2279&amp;amp;context=utk_gradthes&amp;amp;type=additional</url>
+<mime-type>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</mime-type>
+<description>Excel File</description>
+</file>
+</supplemental-files>
+</document>
+</documents>
